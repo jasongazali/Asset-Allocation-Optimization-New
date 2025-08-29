@@ -1,0 +1,6 @@
+streamlit
+yfinance
+numpy
+pandas
+matplotlib
+plotly.graph_objects
